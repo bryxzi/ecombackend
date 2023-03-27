@@ -57,7 +57,8 @@ This back end provides the following API routes:
 - DELETE a tag by ID
 
 ## Video Walkthrough
-A video walkthrough demonstrating the application's functionality can be found here.
+A video walkthrough demonstrating the application's functionality can be found here:
+https://drive.google.com/file/d/1-eNiRV4UHVAh5NgFbkp3QtIIbMWZWItC/view
 
 ## License
 This project is licensed under the MIT License.
